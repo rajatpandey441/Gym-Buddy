@@ -6,7 +6,7 @@ The application has a responsive user interface built with Material-UI, a popula
 
 The combination of a comprehensive exercise database, video integration, and easy-to-use interface makes this gym application made in ReactJS the perfect tool for users looking to take control of their fitness and reach their goals.
 
-Steps to start project i local machine:-
+Steps to start project in local machine:-
 -> Make sure NodeJs is installed
 -> Clone the project
 -> Execute 'npm install'
